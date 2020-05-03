@@ -50,7 +50,7 @@ const ProfileSchema = new mongoose.Schema({
       },
       current: {
         type: Boolean,
-        default: String,
+        default: false,
       },
       description: {
         type: String,
