@@ -2,9 +2,9 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const PostSchema = new Schema({
-  _id: {
-    type: Object,
-  },
+  // _id: {
+  //   type: Object,
+  // },
   user: {
     type: Schema.Types.ObjectId,
   },
