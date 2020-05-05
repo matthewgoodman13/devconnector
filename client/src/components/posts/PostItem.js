@@ -65,6 +65,7 @@ const PostItem = ({
 );
 
 PostItem.defaultProps = {
+  // To add a default to a prop
   showActions: true,
 };
 
