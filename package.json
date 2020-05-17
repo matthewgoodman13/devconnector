@@ -29,5 +29,6 @@
     "moment": "^2.25.3",
     "nodemon": "^2.0.3",
     "react-moment": "^0.9.7"
-  }
+  },
+  "proxy": "localhost:3000"
 }
